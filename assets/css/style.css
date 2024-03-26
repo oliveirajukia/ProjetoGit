@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body {
+    font-family:'Montserrat', Arial, Helvetica, sans-serif;
+    font-size:13px;
+    overflow-x:hidden;
+}
+header {
+    height:100px;
+    background-color:#000;
+    color:#FFF;
+}
+.header {
+    max-width:1140px;
+    height:100px;
+    margin:auto;
+    display:flex;
+    align-items:center;
+}
+.logo {
+    width:100px;
+}
+.logoimg {
+    width:80px;
+    height:80px;
+    background-color:#B28756;
+    border-radius:40px;
+}
